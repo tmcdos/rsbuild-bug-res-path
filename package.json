@@ -3,8 +3,7 @@
   "version": "1.0.1",
   "private": true,
   "scripts": {
-    "serve": "rsbuild",
-    "prepare": "custompatch"
+    "serve": "rsbuild"
   },
   "dependencies": {
     "vue": "^2.7.16",
@@ -16,7 +15,6 @@
     "@rsbuild/plugin-sass": "^2.0.1",
     "@rsbuild/plugin-vue2": "^1.2.0",
     "ajv-keywords": "^3.5.2",
-    "custompatch": "^1.0.22",
     "postcss-import": "^12.0.1",
     "postcss-url": "^7.3.2",
     "sass": "1.32.8",
